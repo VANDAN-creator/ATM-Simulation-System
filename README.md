@@ -1,1 +1,2 @@
 # ATM-Simulation-System
+### In this project, initially we have an ATM machine interface when we run login.java file , having an buttons like Withdrawl, Cash Deposit, Change Pin , Balance Inquiry, Mini Statement, Fast Cash and Exit Button. For accessing this system , the user have to sign up with their basic details to create an account , and then the credentials will be provided to user when they completed their signup . After that the user can login to their account which is unique according to their form no. 
